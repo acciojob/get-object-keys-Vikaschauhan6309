@@ -1,6 +1,8 @@
  
 const student = {
-  name: "John"
+  name: "John",
+	age:23,
+	city:"Delhi"
 };
 
  
